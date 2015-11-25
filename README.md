@@ -1,4 +1,4 @@
-# Accuser_APP
+# Accuser iOS APP
 Materials of Accuser APP for Taipei City Police Department, app spec, iOS test code, etc.
 
 ## Infra
